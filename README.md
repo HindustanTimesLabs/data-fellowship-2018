@@ -1,27 +1,28 @@
-# We’re hiring!
+# Data Journalism Fellowship
 
-The Hindustan Times seeks a data journalist to join its award-winning News Apps and Interactives team at the earliest possible date. We’d like you to work with us in HT’s newsroom in New Delhi, but we’ll consider great candidates who want to work remotely.
+The Hindustan Times, Mint, and How India Lives are looking for recent college graduates and early-career professionals to apply for a six-month paid Data Journalism Fellowship beginning June 1, 2018, and ending November 30, 2018.
 
-[See the full job posting](http://www.hindustantimes.com/interactives/work-with-us).
+[See the full job posting](http://www.hindustantimes.com/interactives/data-fellowship-2018).
 
-### We tell visual, data-driven stories.
+### About the fellowship
 
-We are journalists, data scientists, visualisation designers, and web developers. To be a good fit for our team, you must be curious, energetic, and excited about making creative projects surrounding the most important issues and events of our times.
+The fellowship pays Rs 35,000 per month. Fellows will spend four months in New Delhi, India — two with the Hindustan Times data team and two with How India Lives — and two months in Mumbai, India with Mint’s data team. Fellows will help research and produce stories for these publications while getting real-world experience in the following fields:
 
-[See our projects](http://www.hindustantimes.com/interactives).
-
-### You should have a very particular set of skills.
-
-- _JOURNALISM_ – Experience working as a professional reporter, publishing stories regularly, and juggling daily reporting with long-term feature and enterprise work.
-- _DATA GATHERING_ – Web scraping, public records requests, Tabula, etc.
-- _DATA ANALYSIS_ – R, Python, Excel, OpenRefine, knowledge of statistics, etc.
-- _DATA VISUALISATON_ – Creating charts and maps, preferably interactive ones with Javascript and related libraries like D3.js and TopoJSON, but also static ones with tools like Adobe Illustrator, ai2html and QGIS.
-- _WEB DEVELOPMENT AND DESIGN_ – HTML, CSS, Javascript and related libraries like jQuery.
+- _JOURNALISM_ – Writing news stories, conducting interviews, and thinking about data in terms of stories.
+- _GATHERING DATA_ – Scraping data from the web, collecting information through Right To Information requests, and finding data from public sources.
+- _UNDERSTANDING DATA_ - Making sense of key Indian datasets and understanding the process by which they are generated.
+- _ANALYSING DATA_ – Using spreadsheets and programming languages like R, Python and JavaScript to extract interesting, meaningful stories from datasets.
+- _VISUALISING DATA_ – Building interactive, browser-based visualizations that let you gain insights about data and communicate those insights to readers.
+- _WEB DEVELOPMENT AND DESIGN_ – Designing and creating webpages to display your stories on all sorts of devices.
 
 You don’t have to be able to do all five of these things, but you should be great at at least two of these things and have a strong desire to learn the rest. We improve with every project, and we’re always helping each other get better. It's a lot of fun.
 
-### You can apply online.
+### About you
 
-We are accepting applications on a rolling basis. If you want to apply but have some questions first, please send an email to harry.stevens@hindustantimes.com.
+Successful applicants will be smart, driven, inquisitive, and excited about journalism, data, and design. There are no specific experience qualifications, but successful applicants will be able to demonstrate a previous interest in working with data and telling true stories.
 
-[Apply here](https://docs.google.com/forms/d/e/1FAIpQLSdE254wLbvOcODQujMFoTzoYBA9D7erSztGDiXGBzhQRoApRQ/viewform).
+### Apply online
+
+Applications are due by February 28, 2018. Our decision will be announced by March 15. If you want to apply but have some questions first, please send an email to harry.stevens@hindustantimes.com.
+
+[Apply here](https://docs.google.com/forms/d/e/1FAIpQLSe1BuBY4OPa-owB4TctnDN53E2Qz4sxnNwhYfDDUfP0Z6Y-Og/viewform).
