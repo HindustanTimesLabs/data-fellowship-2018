@@ -6,7 +6,7 @@ The Hindustan Times, Mint, and How India Lives are looking for recent college gr
 
 ### About the fellowship
 
-The fellowship pays Rs 35,000 per month. Fellows will spend four months in New Delhi, India — two with the Hindustan Times data team and two with How India Lives — and two months in Mumbai, India with Mint’s data team. Fellows will help research and produce stories for these publications while getting real-world experience in the following fields:
+The fellowship pays Rs 35,000 per month. Fellows will spend four months in New Delhi, India — two with the [Hindustan Times data team](http://www.hindustantimes.com/interactives/) and two with [How India Lives](http://howindialives.com/) — and two months in Mumbai, India, with [Mint’s data team](http://www.livemint.com/Query/N18iDPmPzsmBt4a050SPfL/Plain-Facts.html). Fellows will help research and produce stories for these publications while getting real-world experience in the following fields:
 
 - _JOURNALISM_ – Writing news stories, conducting interviews, and thinking about data in terms of stories.
 - _GATHERING DATA_ – Scraping data from the web, collecting information through Right To Information requests, and finding data from public sources.
@@ -15,11 +15,9 @@ The fellowship pays Rs 35,000 per month. Fellows will spend four months in New D
 - _VISUALISING DATA_ – Building interactive, browser-based visualizations that let you gain insights about data and communicate those insights to readers.
 - _WEB DEVELOPMENT AND DESIGN_ – Designing and creating webpages to display your stories on all sorts of devices.
 
-You don’t have to be able to do all five of these things, but you should be great at at least two of these things and have a strong desire to learn the rest. We improve with every project, and we’re always helping each other get better. It's a lot of fun.
-
 ### About you
 
-Successful applicants will be smart, driven, inquisitive, and excited about journalism, data, and design. There are no specific experience qualifications, but successful applicants will be able to demonstrate a previous interest in working with data and telling true stories.
+Successful applicants will be smart, driven, inquisitive, and excited about journalism, data, and design. There are no specific experience qualifications, but successful applicants will be able to demonstrate a previous interest in current events and in working with data.
 
 ### Apply online
 
