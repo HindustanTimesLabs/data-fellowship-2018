@@ -21,6 +21,4 @@ Successful applicants will be smart, driven, inquisitive, and excited about jour
 
 ### Apply online
 
-Applications are due by February 28, 2018. Our decision will be announced by March 15. If you want to apply but have some questions first, please send an email to harry.stevens@hindustantimes.com.
-
-[Apply here](https://docs.google.com/forms/d/e/1FAIpQLSe1BuBY4OPa-owB4TctnDN53E2Qz4sxnNwhYfDDUfP0Z6Y-Og/viewform).
+Applications were due by February 28, 2018. If you have not yet applied, it is now too late. Our decision will be announced by March 31, 2018. If you have already applied through the Google Form and have some questions, please send an email to harry.stevens@hindustantimes.com.
